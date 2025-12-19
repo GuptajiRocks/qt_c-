@@ -1,0 +1,5 @@
+--resource
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_helloWidget.qrc
+--resource
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/apphelloWidget_raw_qml_0.qrc
+/qt/qml/helloWidget/Main.qml

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/helloWidget">
+    <file alias="qmldir">D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/helloWidget/qmldir</file>
+  </qresource>
+</RCC>
+

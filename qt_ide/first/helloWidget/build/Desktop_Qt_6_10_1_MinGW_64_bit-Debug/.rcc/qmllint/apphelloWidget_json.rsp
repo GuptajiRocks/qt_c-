@@ -1,0 +1,12 @@
+--bare
+-I
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_helloWidget.qrc
+--resource
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/apphelloWidget_raw_qml_0.qrc
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/Main.qml
+--json
+D:/Projects/C++/qt_start/qt_ide/first/helloWidget/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/apphelloWidget_qmllint.json

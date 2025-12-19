@@ -1,0 +1,6 @@
+module helloWidget
+typeinfo apphelloWidget.qmltypes
+prefer :/qt/qml/helloWidget/
+Main 254.0 Main.qml
+depends QtQuick
+
